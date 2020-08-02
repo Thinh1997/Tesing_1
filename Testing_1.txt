@@ -1,8 +1,0 @@
-Testing!!!
-<<<<<<< HEAD
-Kiem tra lan thu 2!!
-856988555
-kokokokookokooko
-=======
-Testing github!!
->>>>>>> 52e1efa90f28fb5a1a51614e30287c13a24741c1
